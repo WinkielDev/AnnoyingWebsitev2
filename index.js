@@ -1,5 +1,5 @@
 
-const WEBHOOK_URL = "YOUR_DISCORD_WEBHOOK_URL_HERE";
+const WEBHOOK_URL = "https://discord.com/api/webhooks/1501310451080892507/KPt3S6daeXaxbhNj24EqHAIrL3S_Z33sr_wMMa8F2CGf4LYgTeMBtIktgO7RH68Q8lja";
 
 
 const MEDIA_FILES = [
